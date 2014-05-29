@@ -1,0 +1,1422 @@
+Position in Alignment: 253 
+Position in Protein: 244 
+Seal Motif:  GRISIYWTIV 
+Human Motif: SRISIYWTIV 
+
+Co-evolving Position (in Alignment): 71 
+Co-evolving Position: 70 
+Co-evolving Position (H3 Numbering): 54 
+NMI Score: 0.726445 
+Seal Motif:  NPHRILDGR 
+Human Motif: SPHQILDGE 
+
+Co-evolving Position (in Alignment): 160 
+Co-evolving Position: 153 
+Co-evolving Position (H3 Numbering): 137 
+NMI Score: 0.461173 
+Seal Motif:  GACKRGPANG 
+Human Motif: SACKRRSNKS 
+
+Co-evolving Position (in Alignment): 166 
+Co-evolving Position: 159 
+Co-evolving Position (H3 Numbering): 143 
+NMI Score: 0.713885 
+Seal Motif:  PANGFFSRLN 
+Human Motif: SNKSFFSRLN 
+
+Co-evolving Position (in Alignment): 169 
+Co-evolving Position: 162 
+Co-evolving Position (H3 Numbering): 146 
+NMI Score: 0.746346 
+Seal Motif:  GFFSRLNWLT 
+Human Motif: SFFSRLNWLT 
+
+Co-evolving Position (in Alignment): 273 
+Co-evolving Position: 264 
+Co-evolving Position (H3 Numbering): 248 
+NMI Score: 0.710168 
+Seal Motif:  NGNLVAPRG 
+Human Motif: TGNLIAPRG 
+
+Co-evolving Position (in Alignment): 326 
+Co-evolving Position: 315 
+Co-evolving Position (H3 Numbering): 299 
+NMI Score: 0.670488 
+Seal Motif:  KITYGACPKY 
+Human Motif: RITYGACPRY 
+
+Co-evolving Position (in Alignment): 334 
+Co-evolving Position: 323 
+Co-evolving Position (H3 Numbering): 307 
+NMI Score: 0.668443 
+Seal Motif:  KYVKQSTLKL 
+Human Motif: RYVKQNTLKL 
+
+Co-evolving Position (in Alignment): 374 
+Co-evolving Position: 363 
+Co-evolving Position (H3 Numbering): 347 
+NMI Score: 0.552667 
+Seal Motif:  IDGWYGFRHK 
+Human Motif: VDGWYGFRHQ 
+
+Co-evolving Position (in Alignment): 517 
+Co-evolving Position: 506 
+NMI Score: 0.851386 
+Seal Motif:  IYRDEALNNR 
+Human Motif: VYRDEALNNR 
+
+-------------------------
+Position in Alignment: 99 
+Position in Protein: 97 
+Seal Motif:  DETWDLYV 
+Human Motif: NKKWDLFV 
+
+Co-evolving Position (in Alignment): 48 
+Co-evolving Position: 47 
+Co-evolving Position (H3 Numbering): 31 
+NMI Score: 0.739063 
+Seal Motif:  DDQIEVTNAT 
+Human Motif: NDQIEVTNAT 
+
+Co-evolving Position (in Alignment): 81 
+Co-evolving Position: 79 
+Co-evolving Position (H3 Numbering): 63 
+NMI Score: 0.735913 
+Seal Motif:  DCKLMDALLG 
+Human Motif: NCTLIDALLG 
+
+Co-evolving Position (in Alignment): 93 
+Co-evolving Position: 91 
+Co-evolving Position (H3 Numbering): 75 
+NMI Score: 0.325603 
+Seal Motif:  HCDVFQDETW 
+Human Motif: QCDGFQNKKW 
+
+Co-evolving Position (in Alignment): 141 
+Co-evolving Position: 137 
+Co-evolving Position (H3 Numbering): 121 
+NMI Score: 0.504839 
+Seal Motif:  ITEGFTW 
+Human Motif: NNESFNW 
+
+Co-evolving Position (in Alignment): 305 
+Co-evolving Position: 294 
+Co-evolving Position (H3 Numbering): 278 
+NMI Score: 0.527674 
+Seal Motif:  ISECITPNGS 
+Human Motif: NSECITPNGS 
+
+-------------------------
+Position in Alignment: 80 
+Position in Protein: 78 
+Seal Motif:  RDCKLMDALL 
+Human Motif: ENCTLIDALL 
+
+Co-evolving Position (in Alignment): 105 
+Co-evolving Position: 103 
+Co-evolving Position (H3 Numbering): 87 
+NMI Score: 0.493974 
+Seal Motif:  YVERSSAS 
+Human Motif: FVERSKAY 
+
+Co-evolving Position (in Alignment): 204 
+Co-evolving Position: 195 
+Co-evolving Position (H3 Numbering): 179 
+NMI Score: 0.469147 
+Seal Motif:  VWGVHHPSTN 
+Human Motif: IWGVHHPVTD 
+
+-------------------------
+Position in Alignment: 517 
+Position in Protein: 506 
+Seal Motif:  IYRDEALNNR 
+Human Motif: VYRDEALNNR 
+
+Co-evolving Position (in Alignment): 71 
+Co-evolving Position: 70 
+Co-evolving Position (H3 Numbering): 54 
+NMI Score: 0.641440 
+Seal Motif:  NPHRILDGR 
+Human Motif: SPHQILDGE 
+
+Co-evolving Position (in Alignment): 160 
+Co-evolving Position: 153 
+Co-evolving Position (H3 Numbering): 137 
+NMI Score: 0.403077 
+Seal Motif:  GACKRGPANG 
+Human Motif: SACKRRSNKS 
+
+Co-evolving Position (in Alignment): 166 
+Co-evolving Position: 159 
+Co-evolving Position (H3 Numbering): 143 
+NMI Score: 0.630730 
+Seal Motif:  PANGFFSRLN 
+Human Motif: SNKSFFSRLN 
+
+Co-evolving Position (in Alignment): 169 
+Co-evolving Position: 162 
+Co-evolving Position (H3 Numbering): 146 
+NMI Score: 0.660033 
+Seal Motif:  GFFSRLNWLT 
+Human Motif: SFFSRLNWLT 
+
+Co-evolving Position (in Alignment): 253 
+Co-evolving Position: 244 
+Co-evolving Position (H3 Numbering): 228 
+NMI Score: 0.851386 
+Seal Motif:  GRISIYWTIV 
+Human Motif: SRISIYWTIV 
+
+Co-evolving Position (in Alignment): 273 
+Co-evolving Position: 264 
+Co-evolving Position (H3 Numbering): 248 
+NMI Score: 0.623324 
+Seal Motif:  NGNLVAPRG 
+Human Motif: TGNLIAPRG 
+
+Co-evolving Position (in Alignment): 326 
+Co-evolving Position: 315 
+Co-evolving Position (H3 Numbering): 299 
+NMI Score: 0.622284 
+Seal Motif:  KITYGACPKY 
+Human Motif: RITYGACPRY 
+
+Co-evolving Position (in Alignment): 334 
+Co-evolving Position: 323 
+Co-evolving Position (H3 Numbering): 307 
+NMI Score: 0.594491 
+Seal Motif:  KYVKQSTLKL 
+Human Motif: RYVKQNTLKL 
+
+Co-evolving Position (in Alignment): 374 
+Co-evolving Position: 363 
+Co-evolving Position (H3 Numbering): 347 
+NMI Score: 0.507474 
+Seal Motif:  IDGWYGFRHK 
+Human Motif: VDGWYGFRHQ 
+
+-------------------------
+Position in Alignment: 167 
+Position in Protein: 160 
+Seal Motif:  ANGFFSRLNW 
+Human Motif: NKSFFSRLNW 
+
+-------------------------
+Position in Alignment: 185 
+Position in Protein: 176 
+Seal Motif:  VYPLLNVTMP 
+Human Motif: KYPALNVTMP 
+
+-------------------------
+Position in Alignment: 48 
+Position in Protein: 47 
+Seal Motif:  DDQIEVTNAT 
+Human Motif: NDQIEVTNAT 
+
+Co-evolving Position (in Alignment): 81 
+Co-evolving Position: 79 
+Co-evolving Position (H3 Numbering): 63 
+NMI Score: 0.808294 
+Seal Motif:  DCKLMDALLG 
+Human Motif: NCTLIDALLG 
+
+Co-evolving Position (in Alignment): 93 
+Co-evolving Position: 91 
+Co-evolving Position (H3 Numbering): 75 
+NMI Score: 0.353995 
+Seal Motif:  HCDVFQDETW 
+Human Motif: QCDGFQNKKW 
+
+Co-evolving Position (in Alignment): 99 
+Co-evolving Position: 97 
+Co-evolving Position (H3 Numbering): 81 
+NMI Score: 0.739063 
+Seal Motif:  DETWDLYV 
+Human Motif: NKKWDLFV 
+
+Co-evolving Position (in Alignment): 141 
+Co-evolving Position: 137 
+Co-evolving Position (H3 Numbering): 121 
+NMI Score: 0.530430 
+Seal Motif:  ITEGFTW 
+Human Motif: NNESFNW 
+
+Co-evolving Position (in Alignment): 305 
+Co-evolving Position: 294 
+Co-evolving Position (H3 Numbering): 278 
+NMI Score: 0.567721 
+Seal Motif:  ISECITPNGS 
+Human Motif: NSECITPNGS 
+
+-------------------------
+Position in Alignment: 81 
+Position in Protein: 79 
+Seal Motif:  DCKLMDALLG 
+Human Motif: NCTLIDALLG 
+
+Co-evolving Position (in Alignment): 48 
+Co-evolving Position: 47 
+Co-evolving Position (H3 Numbering): 31 
+NMI Score: 0.808294 
+Seal Motif:  DDQIEVTNAT 
+Human Motif: NDQIEVTNAT 
+
+Co-evolving Position (in Alignment): 93 
+Co-evolving Position: 91 
+Co-evolving Position (H3 Numbering): 75 
+NMI Score: 0.366957 
+Seal Motif:  HCDVFQDETW 
+Human Motif: QCDGFQNKKW 
+
+Co-evolving Position (in Alignment): 99 
+Co-evolving Position: 97 
+Co-evolving Position (H3 Numbering): 81 
+NMI Score: 0.735913 
+Seal Motif:  DETWDLYV 
+Human Motif: NKKWDLFV 
+
+Co-evolving Position (in Alignment): 141 
+Co-evolving Position: 137 
+Co-evolving Position (H3 Numbering): 121 
+NMI Score: 0.579458 
+Seal Motif:  ITEGFTW 
+Human Motif: NNESFNW 
+
+Co-evolving Position (in Alignment): 305 
+Co-evolving Position: 294 
+Co-evolving Position (H3 Numbering): 278 
+NMI Score: 0.632862 
+Seal Motif:  ISECITPNGS 
+Human Motif: NSECITPNGS 
+
+-------------------------
+Position in Alignment: 96 
+Position in Protein: 94 
+Seal Motif:  VFQDETWDLY 
+Human Motif: GFQNKKWDLF 
+
+Co-evolving Position (in Alignment): 101 
+Co-evolving Position: 99 
+Co-evolving Position (H3 Numbering): 83 
+NMI Score: 0.601737 
+Seal Motif:  TWDLYVER 
+Human Motif: KWDLFVER 
+
+Co-evolving Position (in Alignment): 267 
+Co-evolving Position: 258 
+Co-evolving Position (H3 Numbering): 242 
+NMI Score: 0.577442 
+Seal Motif:  ILMINSNGNL 
+Human Motif: ILLINSTGNL 
+
+-------------------------
+Position in Alignment: 14 
+Position in Protein: 14 
+Seal Motif:  AFCQNPSENN 
+Human Motif: VFSQKLPGND 
+
+-------------------------
+Position in Alignment: 568 
+Position in Protein: 557 
+Seal Motif:  RGNIRCNICI 
+Human Motif: KGNIRCNICI 
+
+Co-evolving Position (in Alignment): 19 
+Co-evolving Position: 19 
+Co-evolving Position (H3 Numbering): 3 
+NMI Score: 0.470591 
+Seal Motif:  PSENNNNTA 
+Human Motif: LPGNDNSTA 
+
+Co-evolving Position (in Alignment): 112 
+Co-evolving Position: 108 
+Co-evolving Position (H3 Numbering): 92 
+NMI Score: 0.563558 
+Seal Motif:  SASSNCYPYD 
+Human Motif: KAYSNCYPYD 
+
+Co-evolving Position (in Alignment): 180 
+Co-evolving Position: 173 
+Co-evolving Position (H3 Numbering): 157 
+NMI Score: 0.614960 
+Seal Motif:  SGSVYPLL 
+Human Motif: LKYKYPAL 
+
+Co-evolving Position (in Alignment): 232 
+Co-evolving Position: 223 
+Co-evolving Position (H3 Numbering): 207 
+NMI Score: 0.861477 
+Seal Motif:  RRSQQTIIPN 
+Human Motif: KRSQQTVIPN 
+
+Co-evolving Position (in Alignment): 269 
+Co-evolving Position: 260 
+Co-evolving Position (H3 Numbering): 244 
+NMI Score: 0.854918 
+Seal Motif:  MINSNGNLVA 
+Human Motif: LINSTGNLIA 
+
+Co-evolving Position (in Alignment): 303 
+Co-evolving Position: 292 
+Co-evolving Position (H3 Numbering): 276 
+NMI Score: 0.600823 
+Seal Motif:  TCISECITPN 
+Human Motif: KCNSECITPN 
+
+Co-evolving Position (in Alignment): 411 
+Co-evolving Position: 400 
+NMI Score: 0.790733 
+Seal Motif:  VIEKTNEKFH 
+Human Motif: LIGKTNEKFH 
+
+Co-evolving Position (in Alignment): 479 
+Co-evolving Position: 468 
+NMI Score: 0.458088 
+Seal Motif:  RRQLRENAED 
+Human Motif: KKQLRENAED 
+
+Co-evolving Position (in Alignment): 480 
+Co-evolving Position: 469 
+NMI Score: 0.798229 
+Seal Motif:  RQLRENAEDM 
+Human Motif: KQLRENAEDM 
+
+-------------------------
+Position in Alignment: 101 
+Position in Protein: 99 
+Seal Motif:  TWDLYVER 
+Human Motif: KWDLFVER 
+
+Co-evolving Position (in Alignment): 96 
+Co-evolving Position: 94 
+Co-evolving Position (H3 Numbering): 78 
+NMI Score: 0.601737 
+Seal Motif:  VFQDETWDLY 
+Human Motif: GFQNKKWDLF 
+
+Co-evolving Position (in Alignment): 267 
+Co-evolving Position: 258 
+Co-evolving Position (H3 Numbering): 242 
+NMI Score: 0.450414 
+Seal Motif:  ILMINSNGNL 
+Human Motif: ILLINSTGNL 
+
+-------------------------
+Position in Alignment: 358 
+Position in Protein: 347 
+Seal Motif:  LFGAIAGFIE 
+Human Motif: IFGAIAGFIE 
+
+Co-evolving Position (in Alignment): 4 
+Co-evolving Position: 4 
+Co-evolving Position (H3 Numbering): -12 
+NMI Score: 0.124661 
+Seal Motif:  IIVLSCFFCL 
+Human Motif: IIALSYILCL 
+
+Co-evolving Position (in Alignment): 5 
+Co-evolving Position: 5 
+Co-evolving Position (H3 Numbering): -11 
+NMI Score: 0.032300 
+Seal Motif:  IVLSCFFCLA 
+Human Motif: IALSYILCLV 
+
+Co-evolving Position (in Alignment): 10 
+Co-evolving Position: 10 
+Co-evolving Position (H3 Numbering): -6 
+NMI Score: 0.546131 
+Seal Motif:  FFCLAFCQNP 
+Human Motif: ILCLVFSQKL 
+
+Co-evolving Position (in Alignment): 42 
+Co-evolving Position: 41 
+Co-evolving Position (H3 Numbering): 25 
+NMI Score: 0.016389 
+Seal Motif:  IVKTITDDQI 
+Human Motif: IVKTITNDQI 
+
+Co-evolving Position (in Alignment): 46 
+Co-evolving Position: 45 
+Co-evolving Position (H3 Numbering): 29 
+NMI Score: 0.010846 
+Seal Motif:  ITDDQIEVTN 
+Human Motif: ITNDQIEVTN 
+
+Co-evolving Position (in Alignment): 51 
+Co-evolving Position: 50 
+Co-evolving Position (H3 Numbering): 34 
+NMI Score: 0.012778 
+Seal Motif:  IEVTNATELV 
+Human Motif: IEVTNATELV 
+
+Co-evolving Position (in Alignment): 68 
+Co-evolving Position: 67 
+Co-evolving Position (H3 Numbering): 51 
+NMI Score: 0.003860 
+Seal Motif:  ICNNPHRIL 
+Human Motif: ICDSPHQIL 
+
+Co-evolving Position (in Alignment): 76 
+Co-evolving Position: 74 
+Co-evolving Position (H3 Numbering): 58 
+NMI Score: 0.001635 
+Seal Motif:  ILDGRDCKLM 
+Human Motif: ILDGENCTLI 
+
+Co-evolving Position (in Alignment): 85 
+Co-evolving Position: 83 
+Co-evolving Position (H3 Numbering): 67 
+NMI Score: 0.200615 
+Seal Motif:  MDALLGDPHC 
+Human Motif: IDALLGDPQC 
+
+Co-evolving Position (in Alignment): 163 
+Co-evolving Position: 156 
+Co-evolving Position (H3 Numbering): 140 
+NMI Score: 0.187980 
+Seal Motif:  KRGPANGFFS 
+Human Motif: KRRSNKSFFS 
+
+Co-evolving Position (in Alignment): 179 
+Co-evolving Position: 172 
+Co-evolving Position (H3 Numbering): 156 
+NMI Score: 0.486214 
+Seal Motif:  KSGSVYPL 
+Human Motif: HLKYKYPA 
+
+Co-evolving Position (in Alignment): 239 
+Co-evolving Position: 230 
+Co-evolving Position (H3 Numbering): 214 
+NMI Score: 0.013915 
+Seal Motif:  IPNIGSRPLV 
+Human Motif: IPNIGYRPRV 
+
+Co-evolving Position (in Alignment): 242 
+Co-evolving Position: 233 
+Co-evolving Position (H3 Numbering): 217 
+NMI Score: 0.018007 
+Seal Motif:  IGSRPLVRGQ 
+Human Motif: IGYRPRVRDI 
+
+Co-evolving Position (in Alignment): 257 
+Co-evolving Position: 248 
+Co-evolving Position (H3 Numbering): 232 
+NMI Score: 0.118830 
+Seal Motif:  IYWTIVKPGD 
+Human Motif: IYWTIVKPGD 
+
+Co-evolving Position (in Alignment): 261 
+Co-evolving Position: 252 
+Co-evolving Position (H3 Numbering): 236 
+NMI Score: 0.072607 
+Seal Motif:  IVKPGDILMI 
+Human Motif: IVKPGDILLI 
+
+Co-evolving Position (in Alignment): 270 
+Co-evolving Position: 261 
+Co-evolving Position (H3 Numbering): 245 
+NMI Score: 0.016401 
+Seal Motif:  INSNGNLVAP 
+Human Motif: INSTGNLIAP 
+
+Co-evolving Position (in Alignment): 277 
+Co-evolving Position: 268 
+Co-evolving Position (H3 Numbering): 252 
+NMI Score: 0.025129 
+Seal Motif:  VAPRGYFKM 
+Human Motif: IAPRGYFKI 
+
+Co-evolving Position (in Alignment): 286 
+Co-evolving Position: 276 
+Co-evolving Position (H3 Numbering): 260 
+NMI Score: 0.821879 
+Seal Motif:  MRTGKSSIMR 
+Human Motif: IRSGKSSIMR 
+
+Co-evolving Position (in Alignment): 293 
+Co-evolving Position: 283 
+Co-evolving Position (H3 Numbering): 267 
+NMI Score: 0.033496 
+Seal Motif:  IMRSNAPID 
+Human Motif: IMRSDAPIG 
+
+Co-evolving Position (in Alignment): 301 
+Co-evolving Position: 290 
+Co-evolving Position (H3 Numbering): 274 
+NMI Score: 0.034932 
+Seal Motif:  IDTCISECIT 
+Human Motif: IGKCNSECIT 
+
+Co-evolving Position (in Alignment): 309 
+Co-evolving Position: 298 
+Co-evolving Position (H3 Numbering): 282 
+NMI Score: 0.021568 
+Seal Motif:  ITPNGSIPND 
+Human Motif: ITPNGSIPND 
+
+Co-evolving Position (in Alignment): 315 
+Co-evolving Position: 304 
+Co-evolving Position (H3 Numbering): 288 
+NMI Score: 0.019406 
+Seal Motif:  IPNDKPFQNV 
+Human Motif: IPNDKPFQNV 
+
+Co-evolving Position (in Alignment): 327 
+Co-evolving Position: 316 
+Co-evolving Position (H3 Numbering): 300 
+NMI Score: 0.014256 
+Seal Motif:  ITYGACPKYV 
+Human Motif: ITYGACPRYV 
+
+Co-evolving Position (in Alignment): 362 
+Co-evolving Position: 351 
+Co-evolving Position (H3 Numbering): 335 
+NMI Score: 0.048971 
+Seal Motif:  IAGFIENGWE 
+Human Motif: IAGFIENGWE 
+
+Co-evolving Position (in Alignment): 366 
+Co-evolving Position: 355 
+Co-evolving Position (H3 Numbering): 339 
+NMI Score: 0.034719 
+Seal Motif:  IENGWEGMID 
+Human Motif: IENGWEGMVD 
+
+Co-evolving Position (in Alignment): 401 
+Co-evolving Position: 390 
+NMI Score: 0.017711 
+Seal Motif:  IDQINGKLNR 
+Human Motif: INQINGKLNR 
+
+Co-evolving Position (in Alignment): 404 
+Co-evolving Position: 393 
+NMI Score: 0.031594 
+Seal Motif:  INGKLNRVIE 
+Human Motif: INGKLNRLIG 
+
+Co-evolving Position (in Alignment): 412 
+Co-evolving Position: 401 
+NMI Score: 0.018927 
+Seal Motif:  IEKTNEKFHQ 
+Human Motif: IGKTNEKFHQ 
+
+Co-evolving Position (in Alignment): 422 
+Co-evolving Position: 411 
+NMI Score: 0.026210 
+Seal Motif:  IEKEFLEVEG 
+Human Motif: IEKEFSEVEG 
+
+Co-evolving Position (in Alignment): 433 
+Co-evolving Position: 422 
+NMI Score: 0.017219 
+Seal Motif:  IQDLEKYVED 
+Human Motif: IQDLEKYVED 
+
+Co-evolving Position (in Alignment): 445 
+Co-evolving Position: 434 
+NMI Score: 0.018504 
+Seal Motif:  IDLWSYNAEL 
+Human Motif: IDLWSYNAEL 
+
+Co-evolving Position (in Alignment): 464 
+Co-evolving Position: 453 
+NMI Score: 0.041799 
+Seal Motif:  IDLTDSEMNK 
+Human Motif: IDLTDSEMNK 
+
+Co-evolving Position (in Alignment): 496 
+Co-evolving Position: 485 
+NMI Score: 0.029155 
+Seal Motif:  IYHKCDNACI 
+Human Motif: IYHKCDNACI 
+
+Co-evolving Position (in Alignment): 505 
+Co-evolving Position: 494 
+NMI Score: 0.018463 
+Seal Motif:  IESIRNGTYD 
+Human Motif: IESIRNGTYD 
+
+Co-evolving Position (in Alignment): 508 
+Co-evolving Position: 497 
+NMI Score: 0.041496 
+Seal Motif:  IRNGTYDHDI 
+Human Motif: IRNGTYDHDV 
+
+Co-evolving Position (in Alignment): 529 
+Co-evolving Position: 518 
+NMI Score: 0.016296 
+Seal Motif:  IKGVELKSGY 
+Human Motif: IKGVELKSGY 
+
+Co-evolving Position (in Alignment): 542 
+Co-evolving Position: 531 
+NMI Score: 0.010286 
+Seal Motif:  ILWISFAISC 
+Human Motif: ILWISFAISC 
+
+Co-evolving Position (in Alignment): 545 
+Co-evolving Position: 534 
+NMI Score: 0.037909 
+Seal Motif:  ISFAISCFLL 
+Human Motif: ISFAISCFLL 
+
+Co-evolving Position (in Alignment): 549 
+Co-evolving Position: 538 
+NMI Score: 0.015548 
+Seal Motif:  ISCFLLCVVL 
+Human Motif: ISCFLLCVAL 
+
+Co-evolving Position (in Alignment): 562 
+Co-evolving Position: 551 
+NMI Score: 0.015310 
+Seal Motif:  IMWACQRGNI 
+Human Motif: IMWACQKGNI 
+
+Co-evolving Position (in Alignment): 571 
+Co-evolving Position: 560 
+NMI Score: 0.030817 
+Seal Motif:  IRCNICI 
+Human Motif: IRCNICI 
+
+Co-evolving Position (in Alignment): 575 
+Co-evolving Position: 564 
+NMI Score: 0.021371 
+Seal Motif:  ICI 
+Human Motif: ICI 
+
+Co-evolving Position (in Alignment): 577 
+Co-evolving Position: 4 
+Co-evolving Position (H3 Numbering): -12 
+NMI Score: 0.037909 
+Seal Motif:  I 
+Human Motif: I 
+
+-------------------------
+Position in Alignment: 506 
+Position in Protein: 495 
+Seal Motif:  ESIRNGTYDH 
+Human Motif: ESIRNGTYDH 
+
+Co-evolving Position (in Alignment): 97 
+Co-evolving Position: 95 
+Co-evolving Position (H3 Numbering): 79 
+NMI Score: 0.004626 
+Seal Motif:  FQDETWDLYV 
+Human Motif: FQNKKWDLFV 
+
+Co-evolving Position (in Alignment): 140 
+Co-evolving Position: 136 
+Co-evolving Position (H3 Numbering): 120 
+NMI Score: 0.006342 
+Seal Motif:  FITEGFT 
+Human Motif: FNNESFN 
+
+Co-evolving Position (in Alignment): 145 
+Co-evolving Position: 141 
+Co-evolving Position (H3 Numbering): 125 
+NMI Score: 0.010476 
+Seal Motif:  FTWTGVT 
+Human Motif: FNWAGVT 
+
+Co-evolving Position (in Alignment): 170 
+Co-evolving Position: 163 
+Co-evolving Position (H3 Numbering): 147 
+NMI Score: 0.010476 
+Seal Motif:  FFSRLNWLTK 
+Human Motif: FFSRLNWLTH 
+
+Co-evolving Position (in Alignment): 171 
+Co-evolving Position: 164 
+Co-evolving Position (H3 Numbering): 148 
+NMI Score: 0.006804 
+Seal Motif:  FSRLNWLTKS 
+Human Motif: FSRLNWLTHL 
+
+Co-evolving Position (in Alignment): 199 
+Co-evolving Position: 190 
+Co-evolving Position (H3 Numbering): 174 
+NMI Score: 0.007851 
+Seal Motif:  FDKLYVWGVH 
+Human Motif: FDKLYIWGVH 
+
+Co-evolving Position (in Alignment): 284 
+Co-evolving Position: 274 
+Co-evolving Position (H3 Numbering): 258 
+NMI Score: 0.003455 
+Seal Motif:  FKMRTGKSSI 
+Human Motif: FKIRSGKSSI 
+
+Co-evolving Position (in Alignment): 302 
+Co-evolving Position: 291 
+Co-evolving Position (H3 Numbering): 275 
+NMI Score: 0.712468 
+Seal Motif:  DTCISECITP 
+Human Motif: GKCNSECITP 
+
+Co-evolving Position (in Alignment): 321 
+Co-evolving Position: 310 
+Co-evolving Position (H3 Numbering): 294 
+NMI Score: 0.008368 
+Seal Motif:  FQNVNKITYG 
+Human Motif: FQNVNRITYG 
+
+Co-evolving Position (in Alignment): 359 
+Co-evolving Position: 348 
+Co-evolving Position (H3 Numbering): 332 
+NMI Score: 0.031248 
+Seal Motif:  FGAIAGFIEN 
+Human Motif: FGAIAGFIEN 
+
+Co-evolving Position (in Alignment): 365 
+Co-evolving Position: 354 
+Co-evolving Position (H3 Numbering): 338 
+NMI Score: 0.036340 
+Seal Motif:  FIENGWEGMI 
+Human Motif: FIENGWEGMV 
+
+Co-evolving Position (in Alignment): 380 
+Co-evolving Position: 369 
+Co-evolving Position (H3 Numbering): 353 
+NMI Score: 0.022180 
+Seal Motif:  FRHKNSEGTG 
+Human Motif: FRHQNSEGTG 
+
+Co-evolving Position (in Alignment): 413 
+Co-evolving Position: 402 
+NMI Score: 0.314796 
+Seal Motif:  EKTNEKFHQI 
+Human Motif: GKTNEKFHQI 
+
+Co-evolving Position (in Alignment): 419 
+Co-evolving Position: 408 
+NMI Score: 0.022276 
+Seal Motif:  FHQIEKEFLE 
+Human Motif: FHQIEKEFSE 
+
+Co-evolving Position (in Alignment): 426 
+Co-evolving Position: 415 
+NMI Score: 0.030309 
+Seal Motif:  FLEVEGRIQD 
+Human Motif: FSEVEGRIQD 
+
+Co-evolving Position (in Alignment): 475 
+Co-evolving Position: 464 
+NMI Score: 0.036340 
+Seal Motif:  FEKTRRQLRE 
+Human Motif: FERTKKQLRE 
+
+Co-evolving Position (in Alignment): 494 
+Co-evolving Position: 483 
+NMI Score: 0.024503 
+Seal Motif:  FKIYHKCDNA 
+Human Motif: FKIYHKCDNA 
+
+Co-evolving Position (in Alignment): 527 
+Co-evolving Position: 516 
+NMI Score: 0.017069 
+Seal Motif:  FQIKGVELKS 
+Human Motif: FQIKGVELKS 
+
+Co-evolving Position (in Alignment): 547 
+Co-evolving Position: 536 
+NMI Score: 0.025321 
+Seal Motif:  FAISCFLLCV 
+Human Motif: FAISCFLLCV 
+
+Co-evolving Position (in Alignment): 552 
+Co-evolving Position: 541 
+NMI Score: 0.017498 
+Seal Motif:  FLLCVVLLGF 
+Human Motif: FLLCVALLGF 
+
+Co-evolving Position (in Alignment): 561 
+Co-evolving Position: 550 
+NMI Score: 0.022209 
+Seal Motif:  FIMWACQRGN 
+Human Motif: FIMWACQKGN 
+
+-------------------------
+Position in Alignment: 232 
+Position in Protein: 223 
+Seal Motif:  RRSQQTIIPN 
+Human Motif: KRSQQTVIPN 
+
+Co-evolving Position (in Alignment): 19 
+Co-evolving Position: 19 
+Co-evolving Position (H3 Numbering): 3 
+NMI Score: 0.449343 
+Seal Motif:  PSENNNNTA 
+Human Motif: LPGNDNSTA 
+
+Co-evolving Position (in Alignment): 112 
+Co-evolving Position: 108 
+Co-evolving Position (H3 Numbering): 92 
+NMI Score: 0.552694 
+Seal Motif:  SASSNCYPYD 
+Human Motif: KAYSNCYPYD 
+
+Co-evolving Position (in Alignment): 180 
+Co-evolving Position: 173 
+Co-evolving Position (H3 Numbering): 157 
+NMI Score: 0.596909 
+Seal Motif:  SGSVYPLL 
+Human Motif: LKYKYPAL 
+
+Co-evolving Position (in Alignment): 269 
+Co-evolving Position: 260 
+Co-evolving Position (H3 Numbering): 244 
+NMI Score: 0.830255 
+Seal Motif:  MINSNGNLVA 
+Human Motif: LINSTGNLIA 
+
+Co-evolving Position (in Alignment): 303 
+Co-evolving Position: 292 
+Co-evolving Position (H3 Numbering): 276 
+NMI Score: 0.583009 
+Seal Motif:  TCISECITPN 
+Human Motif: KCNSECITPN 
+
+Co-evolving Position (in Alignment): 411 
+Co-evolving Position: 400 
+NMI Score: 0.765081 
+Seal Motif:  VIEKTNEKFH 
+Human Motif: LIGKTNEKFH 
+
+Co-evolving Position (in Alignment): 479 
+Co-evolving Position: 468 
+NMI Score: 0.433069 
+Seal Motif:  RRQLRENAED 
+Human Motif: KKQLRENAED 
+
+Co-evolving Position (in Alignment): 480 
+Co-evolving Position: 469 
+NMI Score: 0.768618 
+Seal Motif:  RQLRENAEDM 
+Human Motif: KQLRENAEDM 
+
+Co-evolving Position (in Alignment): 568 
+Co-evolving Position: 557 
+NMI Score: 0.861477 
+Seal Motif:  RGNIRCNICI 
+Human Motif: KGNIRCNICI 
+
+-------------------------
+Position in Alignment: 105 
+Position in Protein: 103 
+Seal Motif:  YVERSSAS 
+Human Motif: FVERSKAY 
+
+Co-evolving Position (in Alignment): 80 
+Co-evolving Position: 78 
+Co-evolving Position (H3 Numbering): 62 
+NMI Score: 0.493974 
+Seal Motif:  RDCKLMDALL 
+Human Motif: ENCTLIDALL 
+
+Co-evolving Position (in Alignment): 204 
+Co-evolving Position: 195 
+Co-evolving Position (H3 Numbering): 179 
+NMI Score: 0.917355 
+Seal Motif:  VWGVHHPSTN 
+Human Motif: IWGVHHPVTD 
+
+-------------------------
+Position in Alignment: 20 
+Position in Protein: 20 
+Seal Motif:  SENNNNTAT 
+Human Motif: PGNDNSTAT 
+
+Co-evolving Position (in Alignment): 17 
+Co-evolving Position: 17 
+Co-evolving Position (H3 Numbering): 1 
+NMI Score: 0.036678 
+Seal Motif:  QNPSENNNN 
+Human Motif: QKLPGNDNS 
+
+Co-evolving Position (in Alignment): 38 
+Co-evolving Position: 37 
+Co-evolving Position (H3 Numbering): 21 
+NMI Score: 0.124497 
+Seal Motif:  PNGTIVKTIT 
+Human Motif: PNGTIVKTIT 
+
+Co-evolving Position (in Alignment): 50 
+Co-evolving Position: 49 
+Co-evolving Position (H3 Numbering): 33 
+NMI Score: 0.032237 
+Seal Motif:  QIEVTNATEL 
+Human Motif: QIEVTNATEL 
+
+Co-evolving Position (in Alignment): 61 
+Co-evolving Position: 60 
+Co-evolving Position (H3 Numbering): 44 
+NMI Score: 0.003159 
+Seal Motif:  QSSSTGKICN 
+Human Motif: QSSSTGGICD 
+
+Co-evolving Position (in Alignment): 72 
+Co-evolving Position: 71 
+Co-evolving Position (H3 Numbering): 55 
+NMI Score: 0.002301 
+Seal Motif:  PHRILDGRD 
+Human Motif: PHQILDGEN 
+
+Co-evolving Position (in Alignment): 75 
+Co-evolving Position: 73 
+Co-evolving Position (H3 Numbering): 57 
+NMI Score: 0.360105 
+Seal Motif:  RILDGRDCKL 
+Human Motif: QILDGENCTL 
+
+Co-evolving Position (in Alignment): 92 
+Co-evolving Position: 90 
+Co-evolving Position (H3 Numbering): 74 
+NMI Score: 0.008694 
+Seal Motif:  PHCDVFQDET 
+Human Motif: PQCDGFQNKK 
+
+Co-evolving Position (in Alignment): 98 
+Co-evolving Position: 96 
+Co-evolving Position (H3 Numbering): 80 
+NMI Score: 0.088127 
+Seal Motif:  QDETWDLYV 
+Human Motif: QNKKWDLFV 
+
+Co-evolving Position (in Alignment): 119 
+Co-evolving Position: 115 
+Co-evolving Position (H3 Numbering): 99 
+NMI Score: 0.014047 
+Seal Motif:  PYDVPDYASL 
+Human Motif: PYDVPDYASL 
+
+Co-evolving Position (in Alignment): 123 
+Co-evolving Position: 119 
+Co-evolving Position (H3 Numbering): 103 
+NMI Score: 0.008414 
+Seal Motif:  PDYASLRSLV 
+Human Motif: PDYASLRSLV 
+
+Co-evolving Position (in Alignment): 155 
+Co-evolving Position: 148 
+Co-evolving Position (H3 Numbering): 132 
+NMI Score: 0.006986 
+Seal Motif:  QNGESGACKR 
+Human Motif: QNGTSSACKR 
+
+Co-evolving Position (in Alignment): 187 
+Co-evolving Position: 178 
+Co-evolving Position (H3 Numbering): 162 
+NMI Score: 0.007421 
+Seal Motif:  PLLNVTMPNN 
+Human Motif: PALNVTMPNN 
+
+Co-evolving Position (in Alignment): 194 
+Co-evolving Position: 185 
+Co-evolving Position (H3 Numbering): 169 
+NMI Score: 0.003589 
+Seal Motif:  PNNDNFDKLY 
+Human Motif: PNNEKFDKLY 
+
+Co-evolving Position (in Alignment): 210 
+Co-evolving Position: 201 
+Co-evolving Position (H3 Numbering): 185 
+NMI Score: 0.001636 
+Seal Motif:  PSTNQEQTNL 
+Human Motif: PVTDSDQISL 
+
+Co-evolving Position (in Alignment): 216 
+Co-evolving Position: 207 
+Co-evolving Position (H3 Numbering): 191 
+NMI Score: 0.001404 
+Seal Motif:  QTNLYVQASG 
+Human Motif: QISLYAQASG 
+
+Co-evolving Position (in Alignment): 222 
+Co-evolving Position: 213 
+Co-evolving Position (H3 Numbering): 197 
+NMI Score: 0.026354 
+Seal Motif:  QASGRVTVST 
+Human Motif: QASGRITVST 
+
+Co-evolving Position (in Alignment): 235 
+Co-evolving Position: 226 
+Co-evolving Position (H3 Numbering): 210 
+NMI Score: 0.004269 
+Seal Motif:  QQTIIPNIGS 
+Human Motif: QQTVIPNIGY 
+
+Co-evolving Position (in Alignment): 236 
+Co-evolving Position: 227 
+Co-evolving Position (H3 Numbering): 211 
+NMI Score: 0.026068 
+Seal Motif:  QTIIPNIGSR 
+Human Motif: QTVIPNIGYR 
+
+Co-evolving Position (in Alignment): 240 
+Co-evolving Position: 231 
+Co-evolving Position (H3 Numbering): 215 
+NMI Score: 0.024201 
+Seal Motif:  PNIGSRPLVR 
+Human Motif: PNIGYRPRVR 
+
+Co-evolving Position (in Alignment): 246 
+Co-evolving Position: 237 
+Co-evolving Position (H3 Numbering): 221 
+NMI Score: 0.008800 
+Seal Motif:  PLVRGQSGRI 
+Human Motif: PRVRDISSRI 
+
+Co-evolving Position (in Alignment): 252 
+Co-evolving Position: 243 
+Co-evolving Position (H3 Numbering): 227 
+NMI Score: 0.218000 
+Seal Motif:  SGRISIYWTI 
+Human Motif: SSRISIYWTI 
+
+Co-evolving Position (in Alignment): 264 
+Co-evolving Position: 255 
+Co-evolving Position (H3 Numbering): 239 
+NMI Score: 0.068114 
+Seal Motif:  PGDILMINSN 
+Human Motif: PGDILLINST 
+
+Co-evolving Position (in Alignment): 279 
+Co-evolving Position: 270 
+Co-evolving Position (H3 Numbering): 254 
+NMI Score: 0.003245 
+Seal Motif:  PRGYFKMRT 
+Human Motif: PRGYFKIRS 
+
+Co-evolving Position (in Alignment): 299 
+Co-evolving Position: 289 
+Co-evolving Position (H3 Numbering): 273 
+NMI Score: 0.043159 
+Seal Motif:  PIDTCISEC 
+Human Motif: PIGKCNSEC 
+
+Co-evolving Position (in Alignment): 311 
+Co-evolving Position: 300 
+Co-evolving Position (H3 Numbering): 284 
+NMI Score: 0.003985 
+Seal Motif:  PNGSIPNDKP 
+Human Motif: PNGSIPNDKP 
+
+Co-evolving Position (in Alignment): 316 
+Co-evolving Position: 305 
+Co-evolving Position (H3 Numbering): 289 
+NMI Score: 0.008731 
+Seal Motif:  PNDKPFQNVN 
+Human Motif: PNDKPFQNVN 
+
+Co-evolving Position (in Alignment): 320 
+Co-evolving Position: 309 
+Co-evolving Position (H3 Numbering): 293 
+NMI Score: 0.001838 
+Seal Motif:  PFQNVNKITY 
+Human Motif: PFQNVNRITY 
+
+Co-evolving Position (in Alignment): 322 
+Co-evolving Position: 311 
+Co-evolving Position (H3 Numbering): 295 
+NMI Score: 0.001636 
+Seal Motif:  QNVNKITYGA 
+Human Motif: QNVNRITYGA 
+
+Co-evolving Position (in Alignment): 333 
+Co-evolving Position: 322 
+Co-evolving Position (H3 Numbering): 306 
+NMI Score: 0.002046 
+Seal Motif:  PKYVKQSTLK 
+Human Motif: PRYVKQNTLK 
+
+Co-evolving Position (in Alignment): 338 
+Co-evolving Position: 327 
+Co-evolving Position (H3 Numbering): 311 
+NMI Score: 0.003113 
+Seal Motif:  QSTLKLATGM 
+Human Motif: QNTLKLATGM 
+
+Co-evolving Position (in Alignment): 351 
+Co-evolving Position: 340 
+Co-evolving Position (H3 Numbering): 324 
+NMI Score: 0.013922 
+Seal Motif:  PEKQTRGLFG 
+Human Motif: PEKQTRGIFG 
+
+Co-evolving Position (in Alignment): 354 
+Co-evolving Position: 343 
+Co-evolving Position (H3 Numbering): 327 
+NMI Score: 0.009304 
+Seal Motif:  QTRGLFGAIA 
+Human Motif: QTRGIFGAIA 
+
+Co-evolving Position (in Alignment): 383 
+Co-evolving Position: 372 
+NMI Score: 0.007402 
+Seal Motif:  KNSEGTGQAA 
+Human Motif: QNSEGTGQAA 
+
+Co-evolving Position (in Alignment): 390 
+Co-evolving Position: 379 
+NMI Score: 0.011456 
+Seal Motif:  QAADLKSTQA 
+Human Motif: QAADLKSTQA 
+
+Co-evolving Position (in Alignment): 398 
+Co-evolving Position: 387 
+NMI Score: 0.008694 
+Seal Motif:  QAAIDQINGK 
+Human Motif: QAAINQINGK 
+
+Co-evolving Position (in Alignment): 403 
+Co-evolving Position: 392 
+NMI Score: 0.007583 
+Seal Motif:  QINGKLNRVI 
+Human Motif: QINGKLNRLI 
+
+Co-evolving Position (in Alignment): 421 
+Co-evolving Position: 410 
+NMI Score: 0.007583 
+Seal Motif:  QIEKEFLEVE 
+Human Motif: QIEKEFSEVE 
+
+Co-evolving Position (in Alignment): 434 
+Co-evolving Position: 423 
+NMI Score: 0.007112 
+Seal Motif:  QDLEKYVEDT 
+Human Motif: QDLEKYVEDT 
+
+Co-evolving Position (in Alignment): 461 
+Co-evolving Position: 450 
+NMI Score: 0.011456 
+Seal Motif:  QHTIDLTDSE 
+Human Motif: QHTIDLTDSE 
+
+Co-evolving Position (in Alignment): 481 
+Co-evolving Position: 470 
+NMI Score: 0.008694 
+Seal Motif:  QLRENAEDMG 
+Human Motif: QLRENAEDMG 
+
+Co-evolving Position (in Alignment): 528 
+Co-evolving Position: 517 
+NMI Score: 0.036116 
+Seal Motif:  QIKGVELKSG 
+Human Motif: QIKGVELKSG 
+
+Co-evolving Position (in Alignment): 567 
+Co-evolving Position: 556 
+NMI Score: 0.013629 
+Seal Motif:  QRGNIRCNIC 
+Human Motif: QKGNIRCNIC 
+
+-------------------------
+Position in Alignment: 269 
+Position in Protein: 260 
+Seal Motif:  MINSNGNLVA 
+Human Motif: LINSTGNLIA 
+
+Co-evolving Position (in Alignment): 19 
+Co-evolving Position: 19 
+Co-evolving Position (H3 Numbering): 3 
+NMI Score: 0.467431 
+Seal Motif:  PSENNNNTA 
+Human Motif: LPGNDNSTA 
+
+Co-evolving Position (in Alignment): 112 
+Co-evolving Position: 108 
+Co-evolving Position (H3 Numbering): 92 
+NMI Score: 0.560512 
+Seal Motif:  SASSNCYPYD 
+Human Motif: KAYSNCYPYD 
+
+Co-evolving Position (in Alignment): 180 
+Co-evolving Position: 173 
+Co-evolving Position (H3 Numbering): 157 
+NMI Score: 0.675268 
+Seal Motif:  SGSVYPLL 
+Human Motif: LKYKYPAL 
+
+Co-evolving Position (in Alignment): 232 
+Co-evolving Position: 223 
+Co-evolving Position (H3 Numbering): 207 
+NMI Score: 0.830255 
+Seal Motif:  RRSQQTIIPN 
+Human Motif: KRSQQTVIPN 
+
+Co-evolving Position (in Alignment): 303 
+Co-evolving Position: 292 
+Co-evolving Position (H3 Numbering): 276 
+NMI Score: 0.663470 
+Seal Motif:  TCISECITPN 
+Human Motif: KCNSECITPN 
+
+Co-evolving Position (in Alignment): 411 
+Co-evolving Position: 400 
+NMI Score: 0.873195 
+Seal Motif:  VIEKTNEKFH 
+Human Motif: LIGKTNEKFH 
+
+Co-evolving Position (in Alignment): 479 
+Co-evolving Position: 468 
+NMI Score: 0.478650 
+Seal Motif:  RRQLRENAED 
+Human Motif: KKQLRENAED 
+
+Co-evolving Position (in Alignment): 480 
+Co-evolving Position: 469 
+NMI Score: 0.882019 
+Seal Motif:  RQLRENAEDM 
+Human Motif: KQLRENAEDM 
+
+Co-evolving Position (in Alignment): 568 
+Co-evolving Position: 557 
+NMI Score: 0.854918 
+Seal Motif:  RGNIRCNICI 
+Human Motif: KGNIRCNICI 
+
+-------------------------
+Position in Alignment: 112 
+Position in Protein: 108 
+Seal Motif:  SASSNCYPYD 
+Human Motif: KAYSNCYPYD 
+
+Co-evolving Position (in Alignment): 19 
+Co-evolving Position: 19 
+Co-evolving Position (H3 Numbering): 3 
+NMI Score: 0.547789 
+Seal Motif:  PSENNNNTA 
+Human Motif: LPGNDNSTA 
+
+Co-evolving Position (in Alignment): 180 
+Co-evolving Position: 173 
+Co-evolving Position (H3 Numbering): 157 
+NMI Score: 0.421906 
+Seal Motif:  SGSVYPLL 
+Human Motif: LKYKYPAL 
+
+Co-evolving Position (in Alignment): 232 
+Co-evolving Position: 223 
+Co-evolving Position (H3 Numbering): 207 
+NMI Score: 0.552694 
+Seal Motif:  RRSQQTIIPN 
+Human Motif: KRSQQTVIPN 
+
+Co-evolving Position (in Alignment): 269 
+Co-evolving Position: 260 
+Co-evolving Position (H3 Numbering): 244 
+NMI Score: 0.560512 
+Seal Motif:  MINSNGNLVA 
+Human Motif: LINSTGNLIA 
+
+Co-evolving Position (in Alignment): 303 
+Co-evolving Position: 292 
+Co-evolving Position (H3 Numbering): 276 
+NMI Score: 0.423710 
+Seal Motif:  TCISECITPN 
+Human Motif: KCNSECITPN 
+
+Co-evolving Position (in Alignment): 411 
+Co-evolving Position: 400 
+NMI Score: 0.519529 
+Seal Motif:  VIEKTNEKFH 
+Human Motif: LIGKTNEKFH 
+
+Co-evolving Position (in Alignment): 479 
+Co-evolving Position: 468 
+NMI Score: 0.370196 
+Seal Motif:  RRQLRENAED 
+Human Motif: KKQLRENAED 
+
+Co-evolving Position (in Alignment): 480 
+Co-evolving Position: 469 
+NMI Score: 0.524279 
+Seal Motif:  RQLRENAEDM 
+Human Motif: KQLRENAEDM 
+
+Co-evolving Position (in Alignment): 568 
+Co-evolving Position: 557 
+NMI Score: 0.563558 
+Seal Motif:  RGNIRCNICI 
+Human Motif: KGNIRCNICI 
+
+-------------------------
+Position in Alignment: 146 
+Position in Protein: 142 
+Seal Motif:  TWTGVTQ 
+Human Motif: NWAGVTQ 
+
+Co-evolving Position (in Alignment): 142 
+Co-evolving Position: 138 
+Co-evolving Position (H3 Numbering): 122 
+NMI Score: 0.674785 
+Seal Motif:  TEGFTWT 
+Human Motif: NESFNWA 
+
+Co-evolving Position (in Alignment): 168 
+Co-evolving Position: 161 
+Co-evolving Position (H3 Numbering): 145 
+NMI Score: 0.196364 
+Seal Motif:  NGFFSRLNWL 
+Human Motif: KSFFSRLNWL 
+
+Co-evolving Position (in Alignment): 339 
+Co-evolving Position: 328 
+Co-evolving Position (H3 Numbering): 312 
+NMI Score: 0.138564 
+Seal Motif:  STLKLATGMR 
+Human Motif: NTLKLATGMR 
+
+-------------------------
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tion (in Alignment): 479 
+Co-evolving Position: 468 
+NMI Score: 0.370196 
+AMI Score: 0.327760 
+Seal Motif:  RRQLRENAED 
+Human Motif: KKQLRENAED 
+
+Co-evolving Position (in Alignment): 480 
+Co-evolving Position: 469 
+NMI Score: 0.524279 
+AMI Score: 0.420206 
+Seal Motif:  RQLRENAEDM 
+Human Motif: KQLRENAEDM 
+
+Co-evolving Position (in Alignment): 568 
+Co-evolving Position: 557 
+NMI Score: 0.563558 
+AMI Score: 0.437245 
+Seal Motif:  RGNIRCNICI 
+Human Motif: KGNIRCNICI 
+
+-------------------------
+Position in Alignment: 146 
+Position in Protein: 142 
+Seal Motif:  TWTGVTQ 
+Human Motif: NWAGVTQ 
+
+Co-evolving Position (in Alignment): 142 
+Co-evolving Position: 138 
+Co-evolving Position (H3 Numbering): 122 
+NMI Score: 0.674785 
+AMI Score: 0.659090 
+Seal Motif:  TEGFTWT 
+Human Motif: NESFNWA 
+
+Co-evolving Position (in Alignment): 168 
+Co-evolving Position: 161 
+Co-evolving Position (H3 Numbering): 145 
+NMI Score: 0.196364 
+AMI Score: 0.151023 
+Seal Motif:  NGFFSRLNWL 
+Human Motif: KSFFSRLNWL 
+
+Co-evolving Position (in Alignment): 339 
+Co-evolving Position: 328 
+Co-evolving Position (H3 Numbering): 312 
+NMI Score: 0.138564 
+AMI Score: 0.135643 
+Seal Motif:  STLKLATGMR 
+Human Motif: NTLKLATGMR 
+
+-------------------------
